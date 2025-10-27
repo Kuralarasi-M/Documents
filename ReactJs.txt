@@ -1,0 +1,14 @@
+npm install react-bootstrap bootstrap
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+
+npm install  bootstrap
+
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.bundle.min.js";
+
+rafce
+
+className="table table-bordered table-striped table-hover table-responsive"
